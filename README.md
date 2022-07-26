@@ -6,6 +6,6 @@
 - Vim
 - [Mac 使用](./Mac_Note/README.md)
 - Linux
-- ADB
+- [Android Debug](./Android_Debug)
 - 
 
