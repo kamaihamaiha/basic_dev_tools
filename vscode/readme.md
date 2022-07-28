@@ -12,3 +12,6 @@
   - 然后搜索：shortcuts
   - 选中后，会打开一个快捷键的网页
 
+- 格式化 css 文件
+  - 安装插件：`JS-CSS-HTML Formatter`
+  - 按下快捷键：`option + shift + F`
