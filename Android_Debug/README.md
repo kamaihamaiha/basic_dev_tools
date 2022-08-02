@@ -40,3 +40,15 @@ aapt 是 Android SDK 提供的工具，目录：your sdk path//build-tools/某�
 
 [投屏工具](./screen_control.md)
 
+
+
+#### MuMu 模拟器
+
+mac 连接模拟器
+
+```shell
+adb kill-server && adb server && adb shell
+```
+
+
+
