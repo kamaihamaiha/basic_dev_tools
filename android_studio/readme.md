@@ -12,3 +12,7 @@
 - ⌘ + ⇧ + F8 
 
 ![](./imgs/img.png)
+
+### 常见问题
+
+- [见](./errors/readme.md)
