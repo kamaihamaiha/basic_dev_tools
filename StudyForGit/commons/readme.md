@@ -22,3 +22,12 @@
 
   `git config --system --unset credential.helper`
 
+- Windows 下，pull GitHub 的代码，需要设置终端网络代理（如果已经可以科学上网了）
+
+  ```
+  // 设置 CMD Http 代理（临时代理方案）
+  set http_proxy=http://127.0.0.1:50015
+  set https_proxy=http://127.0.0.1:50015
+  ```
+
+  
