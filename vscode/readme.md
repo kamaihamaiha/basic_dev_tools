@@ -19,6 +19,16 @@
 #### 快捷键
 
 - 代码提示（或者叫做：触发建议）：`⌘ + i`
-
 - 上下移动一行：`⌥ + ↑/↓`
 
+
+---
+
+### vscode 配置 C/C++ 调试环境
+
+Mac 下的 vscode 在执行「终端」-> 「运行任务」时会报链接错误：
+```
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+```
+这个先不管，直接手动编译出可执行文件，编译命令写在了 `build.sh` 脚本中，然后配置调试。

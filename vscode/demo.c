@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <libavutil/log.h>
+
+int main(int argc, char** argv){
+
+    printf("hello\n");
+
+    av_log_set_level(AV_LOG_DEBUG);
+    av_log(NULL, AV_LOG_INFO, "Hello ffmpeg!");
+
+    return 0;
+}
+
+
