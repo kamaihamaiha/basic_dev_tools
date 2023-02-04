@@ -23,6 +23,6 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
     plugins=(git zsh-autosuggestions)
    ```
 3. 重启终端
-4. 测试下：
+4. 测试下：   
 ![](./imgs/img_0.png)   
 
