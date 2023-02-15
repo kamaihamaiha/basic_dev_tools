@@ -6,7 +6,7 @@
 - [设置代理](./config_proxy.md)
 - [删除密码](del_pwd.md)
 - [常见错误](./errors/readme.md)
-- [测试 ssh 连接](./ssh.md)
+- [配置 ssh 到 git 服务器](./ssh.md)
 
 ---
 
