@@ -29,5 +29,10 @@
   set http_proxy=http://127.0.0.1:50015
   set https_proxy=http://127.0.0.1:50015
   ```
+- 生成文件的 SHA-1 值
+  ```shell
+   git hash-object <filename>
+  ```
+  
 
   
