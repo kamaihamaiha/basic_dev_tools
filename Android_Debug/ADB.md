@@ -19,6 +19,9 @@ adb shell pm list packages -3 | cut -d':' -f2 | tr '\r' ' ' | xargs -r -n1 -t ad
 2. 查看前台 Activity
 ```shell
    adb shell dumpsys activity activities | grep mResumedActivity
+   
+   # 有的手机（pixel 5）手机上不行，就用下面这个命令
+   adb shell dumpsys activity activities | grep mCurrentFocus
 ```
 
    
