@@ -38,3 +38,8 @@ git log --pretty=format:'%aI' --reverse | sed 's/\(.*\)T\(.*\)\+.*$/\1 \2/'
 2022-03-13 11:34:55
 ...
 ```
+
+### 显示仓库的所有作者名称
+```
+git log --format='%aN' | sort -u
+```
