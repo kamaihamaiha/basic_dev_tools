@@ -24,5 +24,13 @@ adb shell pm list packages -3 | cut -d':' -f2 | tr '\r' ' ' | xargs -r -n1 -t ad
    adb shell dumpsys activity activities | grep mCurrentFocus
 ```
 
+3. 获取剪切板内容
+
+```shell
+# 这个命令会模拟触发系统的剪贴板操作，将剪贴板内容粘贴到当前活动应用中。请注意，这个操作可能会导致当前应用中的内容被替换
+adb shell input keyevent 279
+
+```
+
    
 
