@@ -2,6 +2,7 @@
 
 
 
+- [搜索技巧](./search/readme.md)
 - [版本控制 Git](./StudyForGit/README.md)
 - Vim
 - [Mac 使用](./Mac_Note/README.md)
