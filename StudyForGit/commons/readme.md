@@ -33,6 +33,11 @@
   ```shell
    git hash-object <filename>
   ```
+- github 服务器上的令牌更新了，本次仓库需要更新令牌
+  ```shell
+    git remote set-url origin https://<your-username>:<your-token>@github.com/<your-username>/<your-repo>.git
+  ```
+  
   
 
   
