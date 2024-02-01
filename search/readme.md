@@ -218,6 +218,9 @@
 
 如ppt模版: iSlide插件、canva.com（在线设计网站）
 
+- [https://filesamples.com/](filesamples)
+  - 可以下载很多类型的文件
+
 
 ### 工具软件
 
