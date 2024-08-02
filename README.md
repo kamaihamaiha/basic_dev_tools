@@ -1,7 +1,7 @@
 ## 开发常用工具整理
 
 
-
+- [英语学习](./study_for_en/readme.md)
 - [搜索技巧](./search/readme.md)
 - [版本控制 Git](./StudyForGit/README.md)
 - Vim
