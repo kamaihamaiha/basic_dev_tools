@@ -10,8 +10,7 @@
 
 ---
 
-
-
+- [玩转Git三剑客](./git_from_geektime/readme.md)
 - [Git 版本控制管理](./Git_version_control/readme.md)
 
   
