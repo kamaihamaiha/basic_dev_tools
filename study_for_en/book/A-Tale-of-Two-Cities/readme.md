@@ -7,3 +7,4 @@
 ### Catalog
 
 - [01 The road to Paris-- 1775](./01_The-Road-to-Paris--1775.md)
+- [02 A wine-shop in Paris](./02_A-wine-shop-in-Paris.md)
