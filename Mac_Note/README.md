@@ -9,6 +9,6 @@
 - [无法打开 xxx.pkg 因为它来自身份不明的开发者](./could_not_open_pkg.md)
 - [Macbook pro 外接三方显示器问题](./mac_external_display.md)
 - [Bad CPU type in executable](./bad-cpu-type.md)
-
+- [Mac 外接三方键盘，功能键问题: 使用 karabiner-elements 设置](https://karabiner-elements.pqrs.org/)
 
 
