@@ -17,6 +17,7 @@
 解决：使用第三方设置工具: switchResX;
 
 我拼多多购买的盗版，放到百度网盘了。
+[相关文章--破解版](https://a-nomad.com/mac-resolution)
 
 #### 步骤
 
