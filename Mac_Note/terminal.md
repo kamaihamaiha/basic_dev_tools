@@ -6,8 +6,9 @@
 - 4- 用文本编辑（系统自带）打开文件
 - 5- 查看已经安装的 shell 
 - 6- 设置终端的默认 shell 类型
-- 配置 Android studio、CLion 等命令，可以在终端中直接打开项目
-- 执行脚本报错了
+- 7- 配置 Android studio、CLion 等命令，可以在终端中直接打开项目
+- 8- 执行脚本报错了
+- 9- m处理器使用 brew 安装: `arch -arm64 brew install ...`
 
 ---
 
