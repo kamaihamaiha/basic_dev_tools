@@ -37,6 +37,8 @@
   ```shell
     git remote set-url origin https://<your-username>:<your-token>@github.com/<your-username>/<your-repo>.git
   ```
+- 清除未跟踪的文件: ``git clean -fd``  
+  
   
   
 
