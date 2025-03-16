@@ -10,5 +10,6 @@
 - [Macbook pro 外接三方显示器问题](./mac_external_display.md)
 - [Bad CPU type in executable](./bad-cpu-type.md)
 - [Mac 外接三方键盘，功能键问题: 使用 karabiner-elements 设置](https://karabiner-elements.pqrs.org/)
+- [Mac 上查看 podcast 下载的音频](./mac_podcast.md)
 
 
