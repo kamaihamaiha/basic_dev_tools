@@ -11,5 +11,6 @@
 - [Bad CPU type in executable](./bad-cpu-type.md)
 - [Mac 外接三方键盘，功能键问题: 使用 karabiner-elements 设置](https://karabiner-elements.pqrs.org/)
 - [Mac 上查看 podcast 下载的音频](./mac_podcast.md)
-
+- 安装第三方软件提示，包损坏:
+  - 在终端中执行: `sudo xattr -rd xxx.app`
 
