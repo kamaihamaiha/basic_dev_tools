@@ -22,7 +22,7 @@
 - 上下移动一行：`⌥ + ↑/↓`
 - 查找/跳转到文件: `⌘ + p`
 - 回到上/下个光标: `Ctrl + -/_`
-
+- [在mac上的快捷键-pdf](./vscode-keyboard-shortcuts-macos.pdf)
 
 ---
 
