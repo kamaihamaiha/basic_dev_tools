@@ -1,7 +1,7 @@
 ## Oxford Picture Dictionary
 
 - [Part1 Everyday Language](./part_1/readme.md)
-- [Part2 People]()
+- [Part2 People](./part_2/readme.md)
 - [Part3 Housing]()
 - [Part4 Food]()
 - [Part5 Clothing]()
