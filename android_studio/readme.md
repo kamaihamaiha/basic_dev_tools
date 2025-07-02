@@ -16,3 +16,7 @@
 ### 常见问题
 
 - [见](./errors/readme.md)
+
+### 内存分析
+
+- [官方文档](https://developer.android.com/studio/profile/capture-heap-dump?hl=zh-cn)
