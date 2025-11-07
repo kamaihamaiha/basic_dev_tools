@@ -1,0 +1,49 @@
+## 06 Feelings and moods
+
+- pleased
+- cheerful
+- happy
+- delighted
+- ecstatic
+- amused
+- grateful
+- lucky
+- interested
+- curious
+- intrigued
+- amazed
+- surprised
+- proud
+- excited
+- thrilled
+- calm
+- relaxed
+- appreciative // 英 /əˈpriːʃətɪv/
+- confident
+- hopeful
+- sympathetic // 英 /ˌsɪmpəˈθetɪk/
+- annoyed // 英 /əˈnɔɪd/
+- jealous // 英 /ˈdʒeləs/
+- embarrassed
+---
+
+- worried
+- anxious
+  - there is no call to be anxious // 没有焦急的必要
+- nervous
+  - nervous system
+- frightened
+- scared
+  - scared to death
+  - I'm scared to fly in an airplane. //我害怕坐飞机
+  - I've always been scared of the sight of blood. //我一直害怕见到血
+  - She was scared out of the wits. //她吓得不知所措
+- terrified
+  - I was terrified out of my wits. //我被吓的不知所措
+- sad
+- unhappy
+- disappointed
+  - All of us were disappointed by him. //我们对他很失望
+  - Day by day disappointed lover peaked and pined. //这失恋的人一天天地憔悴下去
+    - peaked and pined: 憔悴衰弱
+- tearful
