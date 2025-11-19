@@ -4,6 +4,7 @@
 
 - neighbor(US)/neighbour(UK)
 - acquaintance
+  - /ə'kweɪntəns/
 - colleague // 英 /ˈkɒliːɡ/
 - pen pal 
 - couple
@@ -13,13 +14,13 @@
 ### 7-2 
 
 - to be born
-- birth certificate
+- birth certificate // 出生证明
 - to go to preschool(US)/nursery(UK)
 - to start school // 开学
 - to make friends 
-- to win a prize
+- to win a prize // 获奖
 - to graduate
-- to emigrate
+- to emigrate // 移民
 - to get a job
 - to fall in love
 - to get married
@@ -44,10 +45,13 @@
 - birthday card
 - Christmas
 - New Year
-- carnival
+- carnival // 狂欢节
 - Thanksgiving
-- Easter
-- Halloween
+- Easter // 复活节
+- Halloween // 万圣节前夕
+  -  /ˌhæləʊ'iːn/
+- Hallowmas // 万圣节
+  - 十一月一日,All Saint's Day的旧称)
 - Kwanzaa
 - Passover
 - Diwali
