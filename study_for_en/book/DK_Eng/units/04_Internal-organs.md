@@ -1,7 +1,38 @@
 ## 04 Internal organs
 
-### 4.1 Internal organs
+### 4.1 Internal organs 
+- trachea[ /trə'kiːə/] =气管
+- lung[/lʌŋ/] =肺
+- liver[ /'lɪvə(r)/] =肝脏
+- gall bladder =胆囊
+  - gall[/ɡɔːl/] =胆汁
+  - bladder[/'blædə(r)/] =膀胱;囊, 袋
+- adrenal[ə'driːn(ə)l/] gland =肾上腺 [5]
+- kidney['kɪdni/] =肾, 肾脏
+- appendix[ /ə'pendɪks/] =阑尾
+- thyroid[/'θaɪrɔɪd/] gland =甲状腺
+- heard[/hɑːt/] =心脏
+- stomach[/'stʌmək/] =胃
+- spleen[/spliːn/] =脾脏
+- small intestine[/ɪn'testɪn/] =小肠
+- large intestine =大肠
 
+
+### 4.2 Body systems
+- respiratory[ /rə'spɪrətri/] =呼吸的
+- digestive[/daɪ'dʒestɪv/] =消化的
+- nervous[/'nɜːvəs/] =神经系统的
+- urinary[/'jʊərɪnəri/] =泌尿的
+- endocrine[/'endəʊkrɪn/] =内分泌的
+- lymphatic[lɪm'fætɪk/] =淋巴的
+  - lymph[ /lɪmf/] =淋巴
+- reproductive[/ˌriːprə'dʌktɪv/] =生殖的
+- vein[/veɪn/] =血管
+- cardiovascular[/ˌkɑːdiəʊ'væskjələ(r)/] =心血管的
+- artery[/'ɑːtəri/] =动脉
+
+
+### 4.3 Head
 - brain
 - palate[/'pælət/] =腭
 - pharynx[/'færɪŋks/] =咽
@@ -17,7 +48,7 @@
 - esophagus[/i'sɒfəɡəs/] =食道
 - vocal[/'vəʊkl/] cords =声带µ
 
-### 4.2 Body systems
+### 4.4 Reproductive[/ˌriːprə'dʌktɪv/] organs
 
 #### male
 - prostate[/'prɒsteɪt/] =前列腺
@@ -35,8 +66,4 @@
 - vagina[/və'dʒaɪnə/] =阴道
 - ovary[/'əʊvəri/] =卵巢
 - cervix['sɜːvɪks/] =子宫颈
-
-### 4.3 Head
-
-### 4.4 Reproductive[/ˌriːprə'dʌktɪv/] organs
 
