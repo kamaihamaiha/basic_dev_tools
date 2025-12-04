@@ -1,0 +1,69 @@
+## 11 Abilities and actions
+
+- to see
+- to taste
+- to smell
+- to crawl
+- index(5): to hit
+- to play
+- to kick
+- to throw
+- to dance
+  - index(10): I love to dance.
+  - Me too!
+- to catch
+- to run
+- to hop // 指单脚短跳或双足猛力的动作。也指小鸟、青蛙等的跳。
+- to jump // 指用双脚向上跳，向下跳，或在同一平面上跳到有一定距离的某一点上，或跳过。
+- to creep // 爬行；慢慢地移动；起鸡皮疙瘩；蔓延
+- to shake
+- to work
+- to blow 
+- to make(a snowman)
+- to spell
+- to do(homework)
+- to copy
+- to build
+- to dig
+- to repair // 修复；修理
+- to fix // 安装；修理；使固定；准备
+- to sit down
+- to stand up
+- to understand
+- to fall //跌倒
+- to lift //举起
+- to add
+- to subtract // 减去，扣掉
+- to count //数数；计算总数；把……算入
+- to listen
+- to talk
+- to speak
+- to shout
+- to sing
+- to act //采取行动；表演
+- to whisper
+- to think
+- to decide //决定
+- index(45): to remember
+- to forget
+- to help
+- to point //指出，指向
+- to pack
+- index(50): to unpack //从(包裹等)中取出(所装的东西)，打开行李取出
+- to fly
+- to ride
+- to climb
+- to lick //吮吸，舔舐
+- index(50): to take() //“接过来” 或 “取走（别人递给的东西） 
+- to bring //带来，拿来
+- to pick up / to collect(UK) //捡起，拾起
+- to enter
+- to exit
+- to win
+- to raise 
+- to carry
+- to juggle //玩杂耍（连续向空中抛接多个物体）
+- to hold //让某个东西保持在你手上或你身上，不让它掉下去。
+- index(65): to move
+- to push
+- to pull
