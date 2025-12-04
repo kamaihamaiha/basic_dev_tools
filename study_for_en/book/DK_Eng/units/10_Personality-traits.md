@@ -1,0 +1,65 @@
+## 10 Personality traits
+
+### 10.1 
+
+- friendly
+- unfriendly
+- talkative = 健谈的
+- enthusiastic = 热心的
+  - /ɪnˌθjuːzi'æstɪk/
+- serious = 严肃的 [5]
+- assertive = 断言的，肯定的
+- critical = 批评的
+- caring = 有同情心的；表示或感到关怀或关心的
+- sensitive = 易受伤害的，易损坏的；易受影响的；敏感的
+- insensitive = 麻木不仁的 [10]
+- reasonable = 合乎情理的，可以接受的，适度的; 公平的，公道的
+- unreasonable = 不讲道理的, 非理智的
+- kind
+- unkind = 不仁慈的，不厚道的；无情的
+- secretive = 遮遮掩掩的,守口如瓶的,秘密的 [15]
+- mature = 成熟的 
+  - /mə'tʃʊə(r)/
+- immature = 不成熟的；未成熟的；粗糙的
+- cautious = 小心的，谨慎的
+  - /'kɔːʃəs/
+- generous = 慷慨的
+- brave [20]
+- funny 
+- mean = 卑鄙的
+- patient / impatient
+- lazy [25]
+- optimistic = 乐观的, 乐观主义的
+- outgoing = 对人友好的;开朗的
+- passionate = 激情的，热情的
+- polite = 有礼貌的，客气的
+- rude = 粗鲁的；无礼的 [30]
+- shy
+- intelligent
+- nervous = 害怕的；胆小的
+- confident = 有信心的, 自信的
+- silly = 蠢的，傻的；糊涂的，可笑的 [35]
+- selfish = 自私的；利己主义的
+- laid-back =懒散的；悠闲的；闲散的
+- My work can wait until later. =我的工作可以晚点再说。
+- ambitious =有抱负的, 雄心勃勃的
+- spontaneous =自发的, 无意识的 [40]
+- romantic
+- calm
+- eccentric =古怪的，怪癖的；异乎寻常的
+- honest
+- dishonest [45]
+- supportive =支持的，拥护的
+- impulsive =冲动的,易冲动的
+- reliable =可靠的, 可信赖的
+- unreliable
+- talented =有才能的 [50]
+- arrogant =自大的 
+- considerate =体贴的, 体谅的
+- adventurous =爱冒险的
+- approachable =可亲近的
+- unapproachable [55]
+- decisive =果断的
+- meticulous =一丝不苟的
+- clumsy =笨拙的, 笨重的
+- thoughtless =不假思索的;轻率的;粗心的
